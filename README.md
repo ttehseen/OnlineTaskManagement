@@ -193,5 +193,5 @@ We check that the amount submitted for the bid is not too extravagant.
 - View all tasks available to user to bid for
 ![alt text](https://github.com/ttehseen/OnlineTaskManagement/blob/master/screenshots/1.png)
 - View all tasks created by the user 
-![alt text](https://github.com/ttehseen/OnlineTaskManagement/blob/master/screenshots/1.png)
+![alt text](https://github.com/ttehseen/OnlineTaskManagement/blob/master/screenshots/2.png)
 
